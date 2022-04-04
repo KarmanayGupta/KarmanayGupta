@@ -13,7 +13,7 @@ My strength is my flexibility that is my ability to switch my thinking and atten
 Skills: developing...
 
 - 🔭 I’m currently working on myself 
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: karmanay1gupta@gmail.com 
 
 
