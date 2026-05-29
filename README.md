@@ -1,10 +1,18 @@
 # Karmanay Gupta
 
-## Software Engineer | Full Stack Developer | Java & MERN Stack
+**Software Engineer | Full Stack Developer | Java | MERN | Enterprise Systems**
 
-Software Engineer with experience independently designing and developing end-to-end full stack applications for global business teams across APAC, UK, and US regions within an enterprise environment. Skilled in Java Full Stack and MERN Stack development with hands-on expertise in Spring Boot, React.js, Node.js, Express.js, MongoDB, SQL, REST APIs, and scalable software engineering practices.
+**Portfolio:** https://karmanaygupta.com
+**LinkedIn:** https://linkedin.com/in/karmanaygupta
+**GitHub:** https://github.com/KarmanayGupta
 
-Currently contributing at Cantor Fitzgerald while collaborating with regional leadership and delivering production-oriented applications tailored to cross-functional business requirements across multiple time zones.
+---
+
+## About Me
+
+Software Engineer with experience in independently designing and developing end-to-end full stack applications for enterprise business teams across APAC, UK, and US regions. I specialize in building scalable, production-grade software systems using modern Java and JavaScript ecosystems, with a strong focus on backend engineering, system design, and full stack architecture.
+
+Currently working in an enterprise engineering environment contributing to cross-regional applications and delivering solutions aligned with global business requirements.
 
 Graduated with a Bachelor of Technology (B.Tech.) (Hons.) in Computer Science Engineering specializing in Full Stack Software Development from Lovely Professional University through an industry-integrated program developed in collaboration with GeeksforGeeks.
 
@@ -27,7 +35,7 @@ Graduated with a Bachelor of Technology (B.Tech.) (Hons.) in Computer Science En
 * React.js
 * Angular
 * Axios
-* Responsive Web Development
+* Responsive UI Development
 * Component-Based Architecture
 
 ### Backend Development
@@ -38,9 +46,9 @@ Graduated with a Bachelor of Technology (B.Tech.) (Hons.) in Computer Science En
 * FastAPI
 * REST APIs
 * Authentication & Authorization
-* Backend Architecture
+* Backend System Design
 
-### Databases, Messaging & Tools
+### Databases, Messaging & Infrastructure
 
 * MongoDB
 * MySQL
@@ -50,42 +58,43 @@ Graduated with a Bachelor of Technology (B.Tech.) (Hons.) in Computer Science En
 * Git
 * GitHub
 
-### Software Engineering
+### Software Engineering Concepts
 
 * Data Structures & Algorithms
 * System Design
 * Object-Oriented Programming
-* Scalable Application Development
-* Software Engineering Practices
+* Scalable Distributed Systems
+* Software Architecture
+* API Design & Integration
 
 ---
 
 ## Professional Experience
 
-### Cantor Fitzgerald
+### Associate Software Engineer
 
-* Independently develop end-to-end full stack applications for enterprise business teams across multiple regions.
-* Build scalable frontend and backend solutions using modern Java and JavaScript ecosystems.
-* Collaborate with stakeholders and regional leadership to deliver production-oriented business applications.
-* Contribute across the complete software development lifecycle including architecture, development, integration, testing, deployment, and enhancements.
+* Independently design and develop full stack applications for enterprise teams across multiple global regions.
+* Build scalable backend and frontend systems using Java, Spring Boot, and modern JavaScript frameworks.
+* Develop RESTful services and integrate distributed system components for production environments.
+* Collaborate with cross-functional stakeholders to deliver business-critical applications across time zones.
+* Work across full software development lifecycle including design, development, testing, and deployment.
 
 ---
 
-## Areas of Interest
+## Focus Areas
 
-* Full Stack Development
-* Backend Engineering
-* System Design
-* Enterprise Software Development
+* Full Stack Application Development
+* Backend Engineering & System Design
+* Distributed Systems
+* Enterprise Software Architecture
 * Scalable Web Applications
-* AI-Integrated Applications
-* Software Architecture
+* API Design and Optimization
+* Performance Engineering
 
 ---
-
 
 ## Connect With Me
 
-* LinkedIn: https://linkedin.com/in/karmanaygupta
 * Portfolio: https://karmanaygupta.com
+* LinkedIn: https://linkedin.com/in/karmanaygupta
 * GitHub: https://github.com/KarmanayGupta
