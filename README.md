@@ -83,11 +83,6 @@ Graduated with a Bachelor of Technology (B.Tech.) (Hons.) in Computer Science En
 
 ---
 
-## Achievements
-
-* National-level cricket player with representation under the Jammu & Kashmir Cricket Association (JKCA).
-
----
 
 ## Connect With Me
 
