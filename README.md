@@ -2,7 +2,6 @@
 
 **Software Engineer | Full Stack Developer | Java | MERN | Enterprise Systems**
 
-**Portfolio:** https://karmanaygupta.com
 **LinkedIn:** https://linkedin.com/in/karmanaygupta
 **GitHub:** https://github.com/KarmanayGupta
 
@@ -95,6 +94,5 @@ Graduated with a Bachelor of Technology (B.Tech.) (Hons.) in Computer Science En
 
 ## Connect With Me
 
-* Portfolio: https://karmanaygupta.com
 * LinkedIn: https://linkedin.com/in/karmanaygupta
 * GitHub: https://github.com/KarmanayGupta
